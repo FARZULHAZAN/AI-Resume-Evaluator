@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit>=1.32.0
+langchain>=0.1.0
+langgraph>=0.0.25
+langchain_community
+bs4
+langchain_openai
+ipykernel
+
+# Document parsing
+pypdf2>=3.0.0
+pypdf
+python-docx>=0.8.11
+
+# Data manipulation and visualization
+
+pandas>=2.1.0
+numpy>=1.24.0
+
+
+# Utilities
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Testing and Debugging
+pytest>=7.4.0
+langgraph-cli[inmem]
+

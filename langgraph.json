@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "AI_Resume_checker":"./src/AI_Resume_checker/graph/graphbuilder.py:agent"
+
+    },
+    "env":"./.env"
+}
